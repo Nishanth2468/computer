@@ -5,7 +5,7 @@ body{
 	line-height: 30px;
 }
 header{
-	background-color: blue;
+	background-color: Aqua;
 	text-align: center;
 	padding-top: 50px;
 	padding-bottom: 50px;
@@ -44,7 +44,7 @@ main img{
 
 h2{
 	font-size: 35px;
-	color: #e70c19;
+	color: CadetBlue;
 	margin: 40px 0 10px;
 }
 
